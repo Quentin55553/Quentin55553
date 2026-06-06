@@ -14,7 +14,7 @@
 	✨ Creating bugs since 2020 💥<br>
 	📚 I'm currently mainly focusing on cybersecurity and occasionally software development<br>
 	🎯 Goals: Becoming a wizard 🧙<br>
-	🎲 Fun fact: Turning it off and on again is still a valid security strategy sometimes. ⏻
+	🎲 Fun fact: Turning it off and on again is still a valid security strategy sometimes ⏻
 </p>
 
 ---
