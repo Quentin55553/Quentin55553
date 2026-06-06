@@ -93,7 +93,7 @@
 
 <br>
 
-# 🧩 Other / Experimental
+# 🧩 Other
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" title="R"/>
   <img src="/assets/ollama.png" width="40" alt="Ollama" title="Ollama"/>
